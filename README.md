@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Den
 
-- 🔭 I’m currently working on Laravel and React projects, building ERP-like systems and real-world web apps.
+- 🔭 I’m currently working on Laravel and React projects, as well as two capstone projects.
 - 🌱 I’m currently learning advanced Laravel features, React.js, AWS, and cloud deployment.
 - 👯 I’m looking to collaborate on open-source systems related to education, church/event management, and productivity tools.
 - 🤔 I’m looking for help with mastering cloud hosting and scalable architecture for SaaS platforms.
